@@ -12,6 +12,5 @@ class Streets(object):
         p.parse(config['osm_data'])
         print data.highways
 
-
 if __name__ == "__main__":
     Streets()
