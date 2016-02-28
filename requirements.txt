@@ -1,0 +1,2 @@
+imposm.parser==1.0.7
+wheel==0.26.0
